@@ -1,7 +1,7 @@
 # Funny-Indices
 
 Limestone Data Challenge - IIT Bombay
-This is the repository that contains our solution for the Limestone Data Challenge organised by Finance & Analytics Club in association with **Tower Research Capital**. I alongwith my teammate **Atishay Jain** worked on this and were **placed in top 58(maybe 14th) in the entire institute among all the undergrads**.
+This is the repository that contains our solution for the Limestone Data Challenge organised by Finance & Analytics Club in association with **Tower Research Capital**. I alongwith my teammate **Atishay Jain** worked on this and were **placed in top 58(maybe 13th) in the entire institute among all the undergrads**.
 
 ### Data files
 
